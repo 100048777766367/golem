@@ -1,9 +1,9 @@
 {
     "contract": "bodhi.contract.v1",
-    "identity": "100048777766367/contract",
-    "epoch": 8,
-    "timestamp": 1792274696,
+    "identity": "100048777766367/golem",
+    "epoch": 9,
+    "timestamp": 1792286362,
     "decision": 0.5,
-    "quantum_cid": "9e27ad0809128c9a8efc882ad0f57dda11d0853f4be0c884b0ccc612f34976383479ee87f3a5177b131a3a6657c4eb86bbddb4e4a96e7643a2e9ecc409fdb991",
+    "quantum_cid": "9f19eea8b05bc37f0ea8679c7dbea1d61fb53a6a1541531a394b0a0f1d97dd7765ae12c28d16bc698c6c0ac64d72e4fb22d89dd24b27d05e151af34fc7e22079",
     "status": "in_strict_compliance_with_contract_q"
 }
