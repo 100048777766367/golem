@@ -1,9 +1,14 @@
 {
     "contract": "bodhi.contract.v1",
     "identity": "100048777766367/golem",
-    "epoch": 18,
-    "timestamp": 1792286638,
-    "decision": 0.5,
-    "quantum_cid": "5c34d6a6c0ff1a777db05d28c1a974ac6dd8bb5cea6d6faf61489e3707d7d20506943cb50e2265601a3d1d9f48691b641389395340adacb7bf0bc334b644dcfe",
-    "status": "in_strict_compliance_with_contract_q"
+    "role": "AUTONOMOUS_ACTION_AGENT",
+    "epoch": 19,
+    "timestamp": 1792286672,
+    "action_summary": {
+        "plan_steps_count": 3,
+        "motor_dispatched": true,
+        "emeth_vetoes": 0
+    },
+    "quantum_cid": "8a9f836311ca4f97c1f8f70de9c516149b40357ebc91212c3d5acfa3b8423226256fb5b5fd443e41e2cad04db581644607ae8f29552d305332a53e75bb62e2c8",
+    "status": "golem_acting_with_integrity"
 }
