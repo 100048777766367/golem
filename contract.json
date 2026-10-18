@@ -1,20 +1,19 @@
 {
   "contract_id": "bodhi.contract.v1",
   "genesis_root": "100048777766367/contract",
-  "formula": "[q] -> [w] -> [e] -> [r] -> [t] -> [q]",
+  "derived_node": "100048777766367/golem",
+  "role": "AUTONOMOUS_ACTION_AGENT",
   "rules": {
     "zero_pii": true,
-    "pure_triplets_only": true,
-    "byzantine_quarantine_threshold": 0.2,
-    "max_organ_timeout_seconds": 5,
+    "pure_action_provenance": true,
+    "emeth_safety_guardrail": true,
     "auto_apoptosis_on_syntax_error": true
   },
   "required_packet_fields": [
     "contract",
     "identity",
     "epoch",
-    "decision",
+    "action_summary",
     "quantum_cid"
-  ],
-  "lineage_law": "Nodes are eternally bound [m]. Dead nodes become tombstones [n] to preserve heritage."
+  ]
 }
