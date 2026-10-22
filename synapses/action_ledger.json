@@ -132,6 +132,12 @@
             "timestamp": 1792677009,
             "executed_count": 3,
             "decision": 0.6043
+        },
+        {
+            "epoch": 41,
+            "timestamp": 1792699851,
+            "executed_count": 3,
+            "decision": 0.605
         }
     ]
 }
