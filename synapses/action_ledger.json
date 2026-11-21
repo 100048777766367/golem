@@ -2,12 +2,6 @@
     "ledger_version": "1.0.0",
     "records": [
         {
-            "epoch": 82,
-            "timestamp": 1793752710,
-            "executed_count": 3,
-            "decision": 0.5623
-        },
-        {
             "epoch": 83,
             "timestamp": 1793794390,
             "executed_count": 3,
@@ -300,6 +294,12 @@
             "timestamp": 1795264982,
             "executed_count": 3,
             "decision": 0.6144
+        },
+        {
+            "epoch": 132,
+            "timestamp": 1795297250,
+            "executed_count": 3,
+            "decision": 0.6055
         }
     ]
 }
